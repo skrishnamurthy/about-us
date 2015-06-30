@@ -1,16 +1,12 @@
 <html>
 <head>
-<title>My Name : Venkat </title>
+   <title>My Name </title>
 </head>
-
-<body>
-
-	<h1>Adding</h1>
-
+   <body>
+	<h1>Name:Venkat</h1>
 	<ul>
-		<li> My favorite place : Tirupathi </li>
-
+	  <li> My favorite place : Tirupathi </li>
 	</ul>
-
-</body>
+    <p> My fav : Dog </p>
+   </body>
 </html>
